@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I'm Anh Nguyen
 - 🔭 Studied [Economics and Finance](https://www.linkedin.com/in/nguyen-nguyen-b96114223/) at RMIT University<br>- 🌱 Currently learning Data Analyst/Data Engineering<br>- 🤔 Interested in Quantitative Trading<br>- 😄 Curious about the combination of EcoFin and IT
 
 
